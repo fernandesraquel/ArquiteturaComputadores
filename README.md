@@ -1,5 +1,0 @@
-# MIPS Assembly
-
-
-
-

@@ -1,0 +1,1 @@
+# Questão 2: Depois de desenvolver o algoritmo que calcula o resto de uma divisão, utilize-o como procedimento para um programa que verifica se um número é par ou ímpar.

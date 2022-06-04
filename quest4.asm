@@ -1,0 +1,1 @@
+# Questão 4: Escreva o procedimento do programa que ordena um vetor com N posições e mostre os elementos desse vetor em ordem crescente.

@@ -6,6 +6,8 @@
 	quociente: .asciiz "\nQuociente: "
 	resto_divisao: .asciiz "\nResto: "
 .text 
+
+main:
 	
 	#Dividendo
 	li $v0,4 
@@ -59,4 +61,4 @@
 	
 	#Termina o programa
   	li $v0, 10
-  	syscall 
+	syscall 

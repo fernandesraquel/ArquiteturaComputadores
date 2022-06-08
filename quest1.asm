@@ -59,4 +59,8 @@
 	
 	#Termina o programa
   	li $v0, 10
+<<<<<<< HEAD
   	syscall 
+=======
+  	syscall 
+>>>>>>> c1df277ab92005e9c211307476920468cb29fe8a
